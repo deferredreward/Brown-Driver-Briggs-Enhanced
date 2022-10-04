@@ -1,4 +1,7 @@
-
+bdbheb {
+  font-family:"Times New Roman", Times, serif;
+  font-size: 1.25em;
+}
 
 primary {
   background-color: var(--pre-color)
